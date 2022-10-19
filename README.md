@@ -55,15 +55,28 @@ Student Module:
 •	Faculty can Check feedback given by students 
 •	Faculty can check average feedback given by students 
 
+
+
 ![image](https://user-images.githubusercontent.com/94628915/196790095-7bd23766-15a1-4ccf-9fa6-500c08d481cf.png)
 
-![image](https://user-images.githubusercontent.com/94628915/196790268-97c97731-b7e6-4f02-94a7-e898e2be1b59.png)
+![Screenshot (259)](https://user-images.githubusercontent.com/94628915/196793345-30894640-83b1-4762-8fa5-0cb93ace3a11.png)
 
-![image](https://user-images.githubusercontent.com/94628915/196790303-4167a375-40b8-48a9-8f28-6477086d99de.png)
+![Screenshot (260)](https://user-images.githubusercontent.com/94628915/196793385-19e0a8b0-cc14-4962-86a5-6b626cda492c.png)
 
-![image](https://user-images.githubusercontent.com/94628915/196790480-4e6023f2-3cba-4dcd-89b4-743a7a261147.png)
+![Screenshot (257)](https://user-images.githubusercontent.com/94628915/196793032-8417e9e6-bbad-47b8-999f-e87b087a4a43.png)
 
-![image](https://user-images.githubusercontent.com/94628915/196790671-ae348c6f-1b33-4237-ae6d-208d78c3ca39.png)
+![Screenshot (261)](https://user-images.githubusercontent.com/94628915/196794151-4d7785c0-43cb-42c1-a8f4-e48c489c152e.png)
+
+![Screenshot (262)](https://user-images.githubusercontent.com/94628915/196794213-5e4f3a8a-bfd8-4c23-af1e-efb0e939405a.png)
+
+Login table in database for admin login:
+
+![Screenshot (264)](https://user-images.githubusercontent.com/94628915/196794903-a1c2c4e8-473c-4887-b2e5-0758d3106681.png)
+
+Contact Us Table in database for Contact Form:
+
+![Screenshot (263)](https://user-images.githubusercontent.com/94628915/196794751-4c7538c7-a4c7-4211-a40c-46570f84b038.png)
+
 
 
 These are some of the screenshots of the project which maily includes the LOGIN, LOGOUT and CONTACT US page.
