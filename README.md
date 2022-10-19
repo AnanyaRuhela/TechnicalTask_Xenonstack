@@ -80,4 +80,4 @@ Contact Us Table in database for Contact Form:
 
 
 
-These are some of the screenshots of the project which maily includes the LOGIN, LOGOUT and CONTACT US page.
+These are some of the screenshots of the project which maily includes the LOGIN, LOGOUT, CONTACT US and ABOUT page.
