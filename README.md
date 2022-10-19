@@ -1,5 +1,7 @@
 # TechnicalTask_Xenonstack
-I have developed this project by using HTML, CSS, JS, PHP and MySQL
+I have developed this project by using HTML, CSS, JS, PHP and MySQL.
+The theme of the project is the analyzing of the feedback done by the students for their faculties.
+
 The objectives of the project are:
 o Decision making power is provided by this analyzer.  
 o	Accurate result can be obtained.  o This system makes selection process more effective.  
@@ -17,7 +19,7 @@ HARDWARE CONFIGURATION :
 
 SOFTWARE SPECIFICATION: 
 •	Operating System: Windows 7/8/10 
-•	Front end: HTML5,CSS 
+•	Front end: HTML5, CSS 
 •	Back end: MySQL(phpMyAdmin), XAMPP Server 
  
 
@@ -26,7 +28,7 @@ Module Description:
 2.	Admin Module. 
 3.	Faculty Module. 
 
-1. Student Module: 
+Student Module: 
 •	Student can Register 
 •	Student can Login 
 •	Student can view profile 
@@ -34,7 +36,7 @@ Module Description:
 •	Student can update Password 
 •	Student can choose faculty and give feedback for every Questions 
 
-2. Admin Module 
+ Admin Module 
 •	Admin Login 
 •	Admin can add new faculty 
 •	Admin can View faculty list 
@@ -46,7 +48,7 @@ Module Description:
 •	Admin can update the contact details dynamically 
 •	Admin can update password 
 
-3. Faculty Module 
+ Faculty Module 
 •	Faculty can login 
 •	Faculty can update their profile 
 •	Faculty can update Password 
