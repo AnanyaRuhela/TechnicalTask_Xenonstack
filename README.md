@@ -1,6 +1,7 @@
 # TechnicalTask_Xenonstack
 I have developed this project by using HTML, CSS, JS, PHP and MySQL.
 The theme of the project is the analyzing of the feedback done by the students for their faculties.
+I have uploaded the source codes of the main files which is directly accessible and their source code can be shown directly without downloading any file and I have also uploaded the whole project which is in the form of zip file. For accessing the whole project you can download the zip file and access the passwords accordingly given in the installation text file.
 
 The objectives of the project are:
 o Decision making power is provided by this analyzer.  
